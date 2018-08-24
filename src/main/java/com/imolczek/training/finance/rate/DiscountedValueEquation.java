@@ -1,4 +1,4 @@
-package com.imolczek.training.math.rate;
+package com.imolczek.training.finance.rate;
 
 import java.time.LocalDate;
 import java.util.Comparator;
